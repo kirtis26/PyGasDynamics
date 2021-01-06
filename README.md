@@ -1,7 +1,7 @@
 # PyGasDynamics
 @author: kirtis26
 
-Abstact : It contains a function that solves the direct Lagrange problem.
+*Abstact: It contains a function that solves the direct Lagrange problem. The methodology for solving the problem of ballistic design is analyzed.
 
 Проектирование одноступенчатого метательного устройства на сжатом газе на основе решения баллистической задачи Лагранжа.
 
